@@ -1,0 +1,21 @@
+.frontpage {
+    background-color: aliceblue;
+    padding: 50px
+}
+
+.panel {
+    background-color: aliceblue;
+    margin: 10px;
+    padding: 20px;
+}
+
+.panel:hover {
+    background-color: skyblue;
+    color: white;
+    cursor: pointer;
+}
+
+#title {
+    color: navy;
+    margin: 60px;
+}
